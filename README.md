@@ -1,9 +1,12 @@
-### Hi there 👋
+:wave: Hi! I'm Timothée Poisot (he/him)
 
-:mortar_board: I am a Quantitative & Computational Ecologist - https://poisotlab.io/
-
+:mortar_board: I am a Quantitative & Computational Ecologist - https://poisotlab.io/   
 :question: What does it means?   
 :exclamation: I use machine learning and other data science tools to solve ecological problems
+
+:speech_balloon: Reach out on twitter [`@tpoi`](http://twitter.com/tpoi) or at `firstname.lastname@umontreal.ca`
+
+
 
 <!--
 **tpoisot/tpoisot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
