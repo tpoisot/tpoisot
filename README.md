@@ -4,7 +4,8 @@
 :question: What does it means?   
 :exclamation: I use machine learning and other data science tools to solve ecological problems
 
-:speech_balloon: Reach out on twitter [`@tpoi`](http://twitter.com/tpoi) or at `firstname.lastname@umontreal.ca`
+:speech_balloon: Reach out on twitter [`@tpoi`](http://twitter.com/tpoi) or at `firstname.lastname@umontreal.ca`   
+:sparkles: I love to talk about [https://julialang.org/](Julia), ecological networks, and making sense of data on biodiversity
 
 
 
