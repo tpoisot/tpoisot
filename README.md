@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:mortar_board: I am a Quantitative & Computational Ecologist - https://poisotlab.io/
+
+:question: What does it means?   
+:exclamation: I use machine learning and other data science tools to solve ecological problems
+
 <!--
 **tpoisot/tpoisot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
