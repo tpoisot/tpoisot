@@ -7,6 +7,7 @@
 :speech_balloon: Reach out on twitter [`@tpoi`](http://twitter.com/tpoi) or at `firstname.lastname@umontreal.ca`   
 :sparkles: I love to talk about [https://julialang.org/](JuliaLang), ecological networks, and making sense of data on biodiversity
 
+:page_facing_up: An usually outdated version of my resume is here: http://tpoisot.github.io/
 
 
 <!--
