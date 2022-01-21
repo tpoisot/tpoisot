@@ -2,7 +2,7 @@
 
 ✨ I am an associate professor of Quantitative & Computational Ecologist at the Université de Montréal - https://poisotlab.io/      
 :question: What does it means?   
-:exclamation: I use machine learning and data science tools to solve ecological problems, with a sustained interest for network ecology and the prediction of species interactions
+:exclamation: I use machine learning and data science tools to solve ecological problems, with a sustained interest for network ecology and the prediction of species interactions. I particularly enjoy the challenging puzzle of making inference from sparse _and_ incomplete data, and to deal with multiple sources of uncertainty.
 
 🦠 I build tools for viral discovery with the [VERENA](http://viralemergence.org) consortium   
 🎓 I teach computational skills to biodiversity scientists with [BIOS²](https://bios2.usherbrooke.ca/)   
