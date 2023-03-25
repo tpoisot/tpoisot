@@ -8,6 +8,7 @@
 🎓 I teach computational skills to biodiversity scientists with [BIOS²](https://bios2.usherbrooke.ca/)   
 📈 I work on AI applied to biodiversity forecasting with the [GEOBON](https://geobon.org/) secretariat   
 🖥️ I serve on the scientific board of [Compute Québec](https://www.calculquebec.ca/en/)  
+⚛️ I serve of the steering committee of MonarQ, Québec's quantum computer for public research   
 🗞️ I have [a blog](https://armchairecology.blog/)! It's about ecology and maths, and it's named after something someone called me once
 
 💬 Reach out on mastodon [`@tpoisot`](https://ecoevo.social/@tpoisot) or at `firstname.lastname@umontreal.ca`   
