@@ -1,4 +1,4 @@
-:wave: Hi! I'm Timothée Poisot (he/him)
+:wave: Hi! I'm Timothée Poisot (he/him or they/them)
 
 ✨ I am full professor of Quantitative & Computational Ecologist at the Université de Montréal, where I lead the _[Laboratoire d’Écologie Prédictive et Interprétable pour la Crise de la Biodiversité](https://epic-biodiversity.org/)_
 
